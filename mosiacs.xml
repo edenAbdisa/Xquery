@@ -1,0 +1,98 @@
+<DATA>
+
+	<MOSIAC>
+		<id>1</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<generated_id>mosaicBuzu</generated_id>
+		<main_artist>Admasu</main_artist>
+		<done_date>2019-10-26 11:07:25</done_date>
+		<title>river flowing</title>
+		<description>Buzu@linkedin</description>
+		<sellable>1.0</sellable>
+	</MOSIAC>
+
+	<MOSIAC>
+		<id>2</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<generated_id>mosaic2</generated_id>
+		<main_artist>gelaye</main_artist>
+		<done_date>2019-10-26 11:07:25</done_date>
+		<title>ice flowing</title>
+		<description>Buzu@linkedin</description>
+		<sellable>1.0</sellable>
+	</MOSIAC>
+
+	<MOSIAC>
+		<id>3</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<generated_id>mosaic3</generated_id>
+		<main_artist>abigya</main_artist>
+		<done_date>2019-10-26 11:07:25</done_date>
+		<title>forest</title>
+		<description>abigya@linkedin</description>
+		<sellable>0.0</sellable>
+	</MOSIAC>
+
+	<MOSIAC>
+		<id>4</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<generated_id>mosaic4</generated_id>
+		<main_artist>fenet</main_artist>
+		<done_date>2019-10-26 11:07:25</done_date>
+		<title>forest</title>
+		<description>fenet@linkedin</description>
+		<sellable>0.0</sellable>
+	</MOSIAC>
+
+	<MOSIAC>
+		<id>5</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<generated_id>mosaic4</generated_id>
+		<main_artist>Kidus</main_artist>
+		<done_date>2019-10-26 11:07:25</done_date>
+		<title>forest</title>
+		<description>Kidus@linkedin</description>
+		<sellable>0.0</sellable>
+	</MOSIAC>
+
+	<MOSIAC>
+		<id>6</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<generated_id>mosaic4</generated_id>
+		<main_artist>Naty</main_artist>
+		<done_date>2019-10-26 11:07:25</done_date>
+		<title>prayers</title>
+		<description>Naty@linkedin</description>
+		<sellable>0.0</sellable>
+	</MOSIAC>
+
+	<MOSIAC>
+		<id>7</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<generated_id>mosaic4</generated_id>
+		<main_artist>Abrham</main_artist>
+		<done_date>2019-10-26 11:07:25</done_date>
+		<title>zewyae</title>
+		<description>Abrham@linkedin</description>
+		<sellable>0.0</sellable>
+	</MOSIAC>
+
+	<MOSIAC>
+		<id>8</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<generated_id>mosaic8</generated_id>
+		<main_artist>Yishak</main_artist>
+		<done_date>2019-10-26 11:07:25</done_date>
+		<title>hawassa</title>
+		<description>yishak@linkedin</description>
+		<sellable>0.0</sellable>
+	</MOSIAC>
+</DATA>

@@ -1,0 +1,98 @@
+<DATA>
+
+	<ARTIST>
+		<id>1</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<f_name>eden</f_name>
+		<l_name>abdisa</l_name>
+		<username>edenAb</username>
+		<phone_number>0987654321</phone_number>
+		<linked_in>eden@linkedin</linked_in>
+		<facebook>eden@linkedin</facebook>
+		<twitter>eden@linkedin</twitter>
+		<instagram>eden@linkedin</instagram>
+		<description>programmer and student at aait</description>
+		<bried_description>programmer</bried_description>
+	</ARTIST>
+
+	<ARTIST>
+		<id>2</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<f_name>deborah</f_name>
+		<l_name>dessalegn</l_name>
+		<username>deborah</username>
+		<phone_number>0987654321</phone_number>
+		<linked_in>deborah@linkedin</linked_in>
+		<facebook>deborah@linkedin</facebook>
+		<twitter>deborah@linkedin</twitter>
+		<instagram>deborah@linkedin</instagram>
+		<description>programmer and student at aait</description>
+		<bried_description>programmer</bried_description>
+	</ARTIST>
+
+	<ARTIST>
+		<id>3</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<f_name>marti</f_name>
+		<l_name>abenezer</l_name>
+		<username>marti</username>
+		<phone_number>0987654321</phone_number>
+		<linked_in>marti@linkedin</linked_in>
+		<facebook>marti@linkedin</facebook>
+		<twitter>marti@linkedin</twitter>
+		<instagram>marti@linkedin</instagram>
+		<description>programmer and student at aait</description>
+		<bried_description>programmer</bried_description>
+	</ARTIST>
+
+	<ARTIST>
+		<id>4</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<f_name>feven</f_name>
+		<l_name>abenezer</l_name>
+		<username>feven</username>
+		<phone_number>0987654321</phone_number>
+		<linked_in>feven@linkedin</linked_in>
+		<facebook>feven@linkedin</facebook>
+		<twitter>feven@linkedin</twitter>
+		<instagram>feven@linkedin</instagram>
+		<description>programmer and student at aait</description>
+		<bried_description>programmer</bried_description>
+	</ARTIST>
+
+	<ARTIST>
+		<id>5</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<f_name>Alemnesh</f_name>
+		<l_name>zewdie</l_name>
+		<username>Alemnesh</username>
+		<phone_number>0987654321</phone_number>
+		<linked_in>Alemnesh@linkedin</linked_in>
+		<facebook>Alemnesh@linkedin</facebook>
+		<twitter>Alemnesh@linkedin</twitter>
+		<instagram>Alemnesh@linkedin</instagram>
+		<description>programmer and student at aait</description>
+		<bried_description>programmer</bried_description>
+	</ARTIST>
+
+	<ARTIST>
+		<id>6</id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<f_name>Buzu</f_name>
+		<l_name>Admasu</l_name>
+		<username>Buzu</username>
+		<phone_number>0987654321</phone_number>
+		<linked_in>Buzu@linkedin</linked_in>
+		<facebook>Buzu@linkedin</facebook>
+		<twitter>Buzu@linkedin</twitter>
+		<instagram>Buzu@linkedin</instagram>
+		<description>programmer and student at aait</description>
+		<bried_description>programmer</bried_description>
+	</ARTIST>
+</DATA>

@@ -1,0 +1,80 @@
+<DATA>
+
+	<PAINTING>
+		<id>1</id>
+		<generated_id>painting_1</generated_id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<drawn_by>Tekelemariam@yahoo.com</drawn_by>
+		<date>2017-09-12 06:37:13</date>
+		<title>waterlillies</title>
+		<type>Abstract</type>
+		<description>The water falling beside the water lillies</description>
+		<status>1.0</status>
+	</PAINTING>
+
+	<PAINTING>
+		<id>2</id>
+		<generated_id>paintingrose</generated_id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<drawn_by>Eden@yahoo.com</drawn_by>
+		<date>2017-09-12 06:37:13</date>
+		<title>rose</title>
+		<type>Abstract</type>
+		<description>The water falling beside the rose lillies</description>
+		<status>1.0</status>
+	</PAINTING>
+
+	<PAINTING>
+		<id>3</id>
+		<generated_id>paintingrose</generated_id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<drawn_by>Eden@yahoo.com</drawn_by>
+		<date>2017-09-12 06:37:13</date>
+		<title>rose</title>
+		<type>Abstract</type>
+		<description>The water falling beside the rose lillies</description>
+		<status>1.0</status>
+	</PAINTING>
+
+	<PAINTING>
+		<id>4</id>
+		<generated_id>paintingrose</generated_id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<drawn_by>Eden@yahoo.com</drawn_by>
+		<date>2017-09-12 06:37:13</date>
+		<title>rose</title>
+		<type>Abstract</type>
+		<description>The water falling beside the rose lillies</description>
+		<status>1.0</status>
+	</PAINTING>
+
+	<PAINTING>
+		<id>5</id>
+		<generated_id>paintingrose</generated_id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<drawn_by>Eden@yahoo.com</drawn_by>
+		<date>2017-09-12 06:37:13</date>
+		<title>rose</title>
+		<type>Abstract</type>
+		<description>The water falling beside the rose lillies</description>
+		<status>1.0</status>
+	</PAINTING>
+
+	<PAINTING>
+		<id>6</id>
+		<generated_id>paintingrose</generated_id>
+		<created_at>2019-10-26 11:07:25</created_at>
+		<updated_at>2019-10-26 11:07:25</updated_at>
+		<drawn_by>Eden@yahoo.com</drawn_by>
+		<date>2017-09-12 06:37:13</date>
+		<title>rose</title>
+		<type>Abstract</type>
+		<description>The water falling beside the rose lillies</description>
+		<status>1.0</status>
+	</PAINTING>
+</DATA>
